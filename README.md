@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my page. I am Dr. Victor Prudente.
 
-<!--
-**victorohden/victorohden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Postdoctoral fellow at the University of Michigan
+- Ph.D in Remote Sensing
+- Agricultural Engineering (Bachelor and Master)
+-
 
-Here are some ideas to get you started:
+- Working mainly with Python and JavaScript (GEE)
+    - Geospatial
+    - Optical Remote Sensing
+    - Microwave Remote Sensing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check more at https://victorohden.github.io/
