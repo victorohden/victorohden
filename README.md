@@ -3,7 +3,7 @@
 - Postdoctoral fellow at the University of Michigan
 - Ph.D in Remote Sensing
 - Agricultural Engineering (Bachelor and Master)
--
+
 
 - Working mainly with Python and JavaScript (GEE)
     - Geospatial
