@@ -3,10 +3,11 @@
 - Postdoctoral fellow at the University of Michigan
 - Ph.D in Remote Sensing
 - Agricultural Engineering (Bachelor and Master)
-- Working mainly with Python and JavaScript (GEE)
+- Working mainly with Python, R and JavaScript (GEE)
     - Geospatial
     - Optical Remote Sensing
     - Microwave Remote Sensing
+    - Machine and Deep Learning
 
 Most of my active research repositories are private, due to institutional
 data-sharing agreements and ongoing unpublished work. The pinned repository
